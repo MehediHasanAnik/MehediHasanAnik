@@ -2,7 +2,7 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Mehedi Hasan Anik</h1>
+<h1 align="center">Hey,I'm Mehedi Hasan Anik</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh.</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/e278cbf655da98c004011927c9b4ef9ace0e73c9b8a41892b778bbe03c045379/68747470733a2f2f637373706f696e743130312e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f31302f446576656c6f7065722d6f6e2d6c6170746f702e676966">
 
