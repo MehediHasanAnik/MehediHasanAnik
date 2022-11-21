@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Next.js**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-167f7.web.app/](https://portfolio-167f7.web.app/)
+- 👨‍💻 All of my projects are available at https://portfolio-mu-weld.vercel.app/
 
 - 💬 Ask me about **Javascript,React,Next.js.**
 
