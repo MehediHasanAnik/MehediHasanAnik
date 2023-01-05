@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at https://portfolio-mu-weld.vercel.app/
 
-- 💬 Ask me about **Javascript,React,Next.js.**
+- 💬 Ask me about **Javascript,React,Next.js && Design**
 
 - 📫 How to reach me **mehedihasananik74@gmail.com**
 
